@@ -1,3 +1,5 @@
+forked from chaneyddtt/GHuNeRF
+
 # GHuNeRF: Generalizable Human NeRF from a Monocular Video
 
 Source code for our 3DV 2024 paper GHuNeRF
